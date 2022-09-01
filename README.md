@@ -10,6 +10,10 @@ species of the plant to which they belong. Being a classification problem, given
 
 ![image](https://user-images.githubusercontent.com/92247654/187924867-acdc644b-6781-40ad-8de1-5c5aa0be66eb.png)
 
+- **Dataset**: 17728 images already divided in subfolders, based on their class. 
+
+- **Model Implementation**: **TRANSFER LEARNING** technique is used, more precisely the EfficientNet with fine tuning.
+
 
 ---
 Contributors: Giulia Peteani, Chiara Veneruso, Elisa Bertone
